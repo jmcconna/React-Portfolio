@@ -1,21 +1,21 @@
 import React, { useState } from 'react';
-import Project from "../Project";
+import Projects from "../Projects";
 
 function Portfolio() {
 
   
   const [projects] = useState([
     {
-      name: 'Daily Dungeon',
+      name: 'daily-dungeon',
       description: 'MERN Stack',
       link: "https://fathomless-brook-62747-69ac2fbd8802.herokuapp.com/",
       repo: "https://github.com/jmcconna/Daily-Dungeon"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'trivia-game', //trivia game
+      description: 'Javascript, RESTful APIs',
+      link: "https://jtruehitt.github.io/Do_You_Even_Trivia_Bro/",
+      repo: "https://github.com/JTruehitt/Do_You_Even_Trivia_Bro"
     },
     {
       name: 'run-buddy',
@@ -40,12 +40,7 @@ function Portfolio() {
   return (
     <div>
       <div className="flex-row">
-        {projects.map((project, idx) => (
-          <Project
-            project={project}
-            key={"project" + idx}
-          />
-        ))}
+          <Projects/>
       </div>
     </div>
   );
