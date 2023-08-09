@@ -8,7 +8,7 @@ function Portfolio() {
     {
       name: 'Daily Dungeon',
       description: 'MERN Stack',
-      link: "https://github.com",
+      link: "https://fathomless-brook-62747-69ac2fbd8802.herokuapp.com/",
       repo: "https://github.com/jmcconna/Daily-Dungeon"
     },
     {
