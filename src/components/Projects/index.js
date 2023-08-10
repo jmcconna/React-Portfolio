@@ -1,12 +1,12 @@
 import React from 'react';
 import dungeonPic from "../../assets/projects/daily-dungeon.jpg";
 import triviaPic from "../../assets/projects/trivia-game.png";
-import shortStoriesPic from "../../assets/projects/led-wall.jpg";
-import WeatherPic from "../../assets/projects/pastel-puzzels.jpg";
-import EmployeeTrackerPic from "../../assets/projects/run-buddy.jpg";
-import socialAPIPic from "../../assets/projects/surf-report.jpg";
+import SVGGeneratorPic from "../../assets/projects/circle.svg";
+import WeatherPic from "../../assets/projects/weather-dashboard.jpg";
+import textEditorPic from "../../assets/projects/JATE Screenshot.png";
+import socialAPIPic from "../../assets/projects/Social-Media-API.png";
 
-function Projects({ projects }) {
+function Projects() {
 
 
 
@@ -49,7 +49,7 @@ function Projects({ projects }) {
 
       <div className="project" key="Weather Dashboard">
         <img
-          src={shortStoriesPic}
+          src={WeatherPic}
           alt="Weather Dashboard"
           className="project-bg"
         />
@@ -66,7 +66,7 @@ function Projects({ projects }) {
 
       <div className="project" key="SVG Logo Maker">
         <img
-          src={WeatherPic}
+          src={SVGGeneratorPic}
           alt="SVG Logo Maker"
           className="project-bg"
         />
@@ -83,7 +83,7 @@ function Projects({ projects }) {
 
       <div className="project" key="Social Network API">
         <img
-          src={EmployeeTrackerPic}
+          src={socialAPIPic}
           alt="Social Network API"
           className="project-bg"
         />
@@ -100,7 +100,7 @@ function Projects({ projects }) {
 
       <div className="project" key="Text Editor PWA">
         <img
-          src={socialAPIPic}
+          src={textEditorPic}
           alt="Progressive Web App"
           className="project-bg"
         />
