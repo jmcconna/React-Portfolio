@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.219832c3.css",
-    "main.js": "/React-Portfolio/static/js/main.aa7663fb.js",
-    "static/media/run-buddy.jpg": "/React-Portfolio/static/media/run-buddy.b57f2b88349c6b77211d.jpg",
+    "main.css": "/React-Portfolio/static/css/main.c44b9f63.css",
+    "main.js": "/React-Portfolio/static/js/main.efbb2794.js",
+    "static/media/weather-dashboard.jpg": "/React-Portfolio/static/media/weather-dashboard.48640f4c7d8516f73d28.jpg",
     "static/media/Brisbane skyline.JPG": "/React-Portfolio/static/media/Brisbane skyline.8028b042948efc05c0a1.JPG",
-    "static/media/led-wall.jpg": "/React-Portfolio/static/media/led-wall.c905c2d12b5c9b7485ff.jpg",
-    "static/media/surf-report.jpg": "/React-Portfolio/static/media/surf-report.6490cdfef5afd0538437.jpg",
-    "static/media/daily-dungeon.jpg": "/React-Portfolio/static/media/daily-dungeon.db2afd55d3367f60cc17.jpg",
-    "static/media/pastel-puzzels.jpg": "/React-Portfolio/static/media/pastel-puzzels.5ff0a7600bae7cd50d00.jpg",
+    "static/media/daily-dungeon.jpg": "/React-Portfolio/static/media/daily-dungeon.194baa4e624be007d894.jpg",
+    "static/media/Social-Media-API.png": "/React-Portfolio/static/media/Social-Media-API.a813fe3d6cfe47265b3f.png",
     "static/media/trivia-game.png": "/React-Portfolio/static/media/trivia-game.3d3610bc563d8ebc1347.png",
     "static/media/profile.jpg": "/React-Portfolio/static/media/profile.bb38a42c0987838e37cd.jpg",
+    "static/media/JATE Screenshot.png": "/React-Portfolio/static/media/JATE Screenshot.01f0949b3137e95a218b.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.219832c3.css.map": "/React-Portfolio/static/css/main.219832c3.css.map",
-    "main.aa7663fb.js.map": "/React-Portfolio/static/js/main.aa7663fb.js.map"
+    "static/media/circle.svg": "/React-Portfolio/static/media/circle.8fc3c7d75b3c383f7683932916bef9b3.svg",
+    "main.c44b9f63.css.map": "/React-Portfolio/static/css/main.c44b9f63.css.map",
+    "main.efbb2794.js.map": "/React-Portfolio/static/js/main.efbb2794.js.map"
   },
   "entrypoints": [
-    "static/css/main.219832c3.css",
-    "static/js/main.aa7663fb.js"
+    "static/css/main.c44b9f63.css",
+    "static/js/main.efbb2794.js"
   ]
 }
