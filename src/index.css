@@ -306,6 +306,11 @@ textarea {
   text-align: center;
 }
 
+.profilePic {
+  width: 25%;
+  display: inline-block;
+}
+
 .project {
   position: relative;
   width: 100%;
