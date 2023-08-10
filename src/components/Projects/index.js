@@ -6,9 +6,9 @@ import WeatherPic from "../../assets/projects/pastel-puzzels.jpg";
 import EmployeeTrackerPic from "../../assets/projects/run-buddy.jpg";
 import socialAPIPic from "../../assets/projects/surf-report.jpg";
 
-function Projects({ project }) {
+function Projects({ projects }) {
 
- // const { name, repo, link, description } = project;
+
 
   return (
     <div>
@@ -43,75 +43,75 @@ function Projects({ project }) {
               <i className="fab fa-github"></i>
             </a>
           </h3>
+          <p>'Javascript, RESTful APIs, CSS'</p>
+        </div>
+      </div>
+
+      <div className="project" key="Weather Dashboard">
+        <img
+          src={shortStoriesPic}
+          alt="Weather Dashboard"
+          className="project-bg"
+        />
+        <div className="project-text">
+          <h3>
+            <a href="https://jmcconna.github.io/Weather-Dashboard/">Weather Dashboard</a>{' '}
+            <a href="https://github.com/jmcconna/Weather-Dashboard">
+              <i className="fab fa-github"></i>
+            </a>
+          </h3>
           <p>'Javascript, RESTful APIs'</p>
         </div>
       </div>
 
-      <div className="project" key="Short Story Library">
-        <img
-          src={shortStoriesPic}
-          alt="Post Lit, Get Lit"
-          className="project-bg"
-        />
-        <div className="project-text">
-          <h3>
-            <a href="https://github.com/jmcconna/Short-Story-Library">Short Story Library</a>{' '}
-            <a href="https://github.com/jmcconna/Short-Story-Library">
-              <i className="fab fa-github"></i>
-            </a>
-          </h3>
-          <p>'MERN Stack'</p>
-        </div>
-      </div>
-
-      <div className="project" key="Daily Dungeon">
+      <div className="project" key="SVG Logo Maker">
         <img
           src={WeatherPic}
-          alt="Daily Dungeon RPG"
+          alt="SVG Logo Maker"
           className="project-bg"
         />
         <div className="project-text">
           <h3>
-            <a href="https://fathomless-brook-62747-69ac2fbd8802.herokuapp.com/">Daily Dungeon</a>{' '}
-            <a href="https://github.com/jmcconna/Daily-Dungeon">
+            <a href="https://github.com/jmcconna/SVG-Logo-Maker">SVG Logo Maker</a>{' '}
+            <a href="https://github.com/jmcconna/SVG-Logo-Maker">
               <i className="fab fa-github"></i>
             </a>
           </h3>
-          <p>'MERN Stack'</p>
+          <p>'Node, CLI''</p>
         </div>
       </div>
 
-      <div className="project" key="Daily Dungeon">
+      <div className="project" key="Social Network API">
         <img
           src={EmployeeTrackerPic}
-          alt="Daily Dungeon RPG"
+          alt="Social Network API"
           className="project-bg"
         />
         <div className="project-text">
           <h3>
-            <a href="https://fathomless-brook-62747-69ac2fbd8802.herokuapp.com/">Daily Dungeon</a>{' '}
-            <a href="https://github.com/jmcconna/Daily-Dungeon">
+            <a href="https://github.com/jmcconna/Social-Network-API">Social Network API</a>{' '}
+            <a href="https://github.com/jmcconna/Social-Network-API">
               <i className="fab fa-github"></i>
             </a>
           </h3>
-          <p>'MERN Stack'</p>
+          <p>'MongoDb, Express'</p>
         </div>
       </div>
 
-      <div className="project" key="Daily Dungeon">
+      <div className="project" key="Text Editor PWA">
         <img
           src={socialAPIPic}
-          alt="Daily Dungeon RPG"
+          alt="Progressive Web App"
           className="project-bg"
         />
         <div className="project-text">
           <h3>
-            <a href="https://fathomless-brook-62747-69ac2fbd8802.herokuapp.com/">Daily Dungeon</a>{' '}
-            <a href="https://github.com/jmcconna/Daily-Dungeon">
+            <a href="https://github.com/jmcconna/Text-Editor-PWA">Text Editor PWA</a>{' '}
+            <a href="https://github.com/jmcconna/Text-Editor-PWA">
               <i className="fab fa-github"></i>
             </a>
           </h3>
-          <p>'MERN Stack'</p>
+          <p>'Progressive Web App'</p>
         </div>
       </div>
      

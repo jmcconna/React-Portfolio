@@ -13,27 +13,33 @@ function Portfolio() {
     },
     {
       name: 'trivia-game', //trivia game
-      description: 'Javascript, RESTful APIs',
+      description: 'Javascript, CSS, RESTful APIs',
       link: "https://jtruehitt.github.io/Do_You_Even_Trivia_Bro/",
       repo: "https://github.com/JTruehitt/Do_You_Even_Trivia_Bro"
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Weather Dashboard',
+      description: 'Javascript, RESTful APIs',
+      link: "https://jmcconna.github.io/Weather-Dashboard/",
+      repo: "https://github.com/jmcconna/Weather-Dashboard"
     },
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'SVG Logo Maker',
+      description: 'Node, CLI',
+      link: "https://github.com/jmcconna/SVG-Logo-Maker",
+      repo: "https://github.com/jmcconna/SVG-Logo-Maker"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Social Network API',
+      description: 'MongoDb, Express',
+      link: "https://github.com/jmcconna/Social-Network-API",
+      repo: "https://github.com/jmcconna/Social-Network-API"
+    },
+    {
+      name: 'Text Editor PWA',
+      description: 'Progressive Web App',
+      link: "https://github.com/jmcconna/Text-Editor-PWA",
+      repo: "https://github.com/jmcconna/Text-Editor-PWA"
     },
   ]);
 
