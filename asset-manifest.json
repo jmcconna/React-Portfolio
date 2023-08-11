@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.c44b9f63.css",
-    "main.js": "/React-Portfolio/static/js/main.efbb2794.js",
+    "main.css": "/React-Portfolio/static/css/main.deb6a6ac.css",
+    "main.js": "/React-Portfolio/static/js/main.201b5d0b.js",
     "static/media/weather-dashboard.jpg": "/React-Portfolio/static/media/weather-dashboard.48640f4c7d8516f73d28.jpg",
     "static/media/Brisbane skyline.JPG": "/React-Portfolio/static/media/Brisbane skyline.8028b042948efc05c0a1.JPG",
     "static/media/daily-dungeon.jpg": "/React-Portfolio/static/media/daily-dungeon.194baa4e624be007d894.jpg",
     "static/media/Social-Media-API.png": "/React-Portfolio/static/media/Social-Media-API.a813fe3d6cfe47265b3f.png",
     "static/media/trivia-game.png": "/React-Portfolio/static/media/trivia-game.3d3610bc563d8ebc1347.png",
     "static/media/profile.jpg": "/React-Portfolio/static/media/profile.bb38a42c0987838e37cd.jpg",
-    "static/media/JATE Screenshot.png": "/React-Portfolio/static/media/JATE Screenshot.01f0949b3137e95a218b.png",
+    "static/media/ShortStoryLibrary.jpg": "/React-Portfolio/static/media/ShortStoryLibrary.716421c8e71046502431.jpg",
     "index.html": "/React-Portfolio/index.html",
     "static/media/circle.svg": "/React-Portfolio/static/media/circle.8fc3c7d75b3c383f7683932916bef9b3.svg",
-    "main.c44b9f63.css.map": "/React-Portfolio/static/css/main.c44b9f63.css.map",
-    "main.efbb2794.js.map": "/React-Portfolio/static/js/main.efbb2794.js.map"
+    "main.deb6a6ac.css.map": "/React-Portfolio/static/css/main.deb6a6ac.css.map",
+    "main.201b5d0b.js.map": "/React-Portfolio/static/js/main.201b5d0b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c44b9f63.css",
-    "static/js/main.efbb2794.js"
+    "static/css/main.deb6a6ac.css",
+    "static/js/main.201b5d0b.js"
   ]
 }
