@@ -5,8 +5,8 @@ function About() {
   return (
     <section className="my-5">
       <div className="profilePic">
-        <div className="profile-img my-5">
-        <img className="profile-img my-5" src={profilePic} alt="James McConnaughey Profile"></img>
+        <div className="profile-img">
+        <img className="profilePic" src={profilePic} alt="James McConnaughey Profile"></img>
       </div>
       </div>
         <p>
