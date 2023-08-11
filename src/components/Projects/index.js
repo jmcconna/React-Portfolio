@@ -3,7 +3,7 @@ import dungeonPic from "../../assets/projects/daily-dungeon.jpg";
 import triviaPic from "../../assets/projects/trivia-game.png";
 import SVGGeneratorPic from "../../assets/projects/circle.svg";
 import WeatherPic from "../../assets/projects/weather-dashboard.jpg";
-import textEditorPic from "../../assets/projects/JATE Screenshot.png";
+import shortStoryPic from "../../assets/projects/ShortStoryLibrary.jpg";
 import socialAPIPic from "../../assets/projects/Social-Media-API.png";
 
 function Projects() {
@@ -98,20 +98,20 @@ function Projects() {
         </div>
       </div>
 
-      <div className="project" key="Text Editor PWA">
+      <div className="project" key="Short Story Library">
         <img
-          src={textEditorPic}
-          alt="Progressive Web App"
+          src={shortStoryPic}
+          alt="Books on a shelf"
           className="project-bg"
         />
         <div className="project-text">
           <h3>
-            <a href="https://github.com/jmcconna/Text-Editor-PWA">Text Editor PWA</a>{' '}
-            <a href="https://github.com/jmcconna/Text-Editor-PWA">
+            <a href="https://evening-hollows-76995-cbe2d520bede.herokuapp.com/">Short Story Library</a>{' '}
+            <a href="https://github.com/jmcconna/Short-Story-Library">
               <i className="fab fa-github"></i>
             </a>
           </h3>
-          <p>'Progressive Web App'</p>
+          <p>'MySQL, Handlebars, Javascript'</p>
         </div>
       </div>
      
